@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Steve Moya Cepeda</h1>
+
+<h1 align="center"> <img src="https://github.com/SteveMoya/SteveMoya/assets/114698709/3894477d-7faa-44c9-ba3c-18b7f33e0a18" alt="css3" width="40" height="40"/> Hi, I'm Steve Moya Cepeda</h1>
+
 
 ![undraw_marketing_re_7f1g](https://github.com/SteveMoya/SteveMoya/assets/114698709/8f47302f-f243-406d-8c66-e84b2dabf07f)
 
@@ -28,7 +30,7 @@
 
 <h2 align="left"> GitHub Stats</h2>
 
-<hr>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveMoya&show_icons=true&theme=dark)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveMoya&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
