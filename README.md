@@ -28,4 +28,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveMoya&show_icons=true&theme=dark)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveMoya&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![github-contribution-grid-snake](https://github.com/SteveMoya/SteveMoya/assets/114698709/b0382bdd-fd7a-47b6-b072-35e247fc51f0)
+
 
