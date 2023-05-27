@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Steve Moya Cepeda</h1>
+
+![undraw_marketing_re_7f1g](https://github.com/SteveMoya/SteveMoya/assets/114698709/8f47302f-f243-406d-8c66-e84b2dabf07f)
+
+                     
 - 🌱 I’m currently learning **Frameworks, Libraries and coursies**
 
 - 👨‍💻 All of my projects are available at (Portafolio, but I'm Working with it)
