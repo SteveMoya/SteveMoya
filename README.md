@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Steve+Moya+Cepeda;Marketing+Digital+%7C+Web+Dev+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Steve+Moya+Cepeda;Marketing+Digital+%7C+Web+Dev+%7C+Automation" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://stevemoya.me" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-stevemoya.me-00D4FF?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-stevemoya.me-00D4FF?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/steve-moya-cepeda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -51,7 +51,7 @@ Combino estas tres disciplinas para crear soluciones digitales completas: desde 
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun">
 </p>
 
-### 📧 Marketing & SEO
+###  Marketing & SEO
 <p>
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Analytics">
   <img src="https://img.shields.io/badge/SEO-Optimization-4285F4?style=for-the-badge" alt="SEO">
@@ -67,7 +67,7 @@ Combino estas tres disciplinas para crear soluciones digitales completas: desde 
 <tr>
 <td width="50%">
 
-###  SEO-GEO-Reports
+### 📊 SEO-GEO-Reports
 Herramienta de análisis SEO y GEO con reportes automatizados.
 <br><br>
 <a href="https://github.com/SteveMoya/SEO-GEO-Reports">
@@ -112,7 +112,7 @@ Sitio personal con blog, proyectos y sistema de contenido.
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SteveMoya&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Stats" width="48%">
@@ -125,16 +125,16 @@ Sitio personal con blog, proyectos y sistema de contenido.
 
 ---
 
-## ️ Infraestructura
+## 🏗️ Infraestructura
 
 Todo mi stack corre en un **VPS propio en Frankfurt** con:
 
 ```
-┌─────────────────────────────────────────────┐
+─────────────────────────────────────────────┐
 │  VPS Ubuntu (8GB RAM) — Frankfurt, DE      │
 ├─────────────────────────────────────────────┤
 │  🐳 Docker + Dokploy (orquestación)        │
-│  🌐 Traefik (reverse proxy + SSL)          │
+│   Traefik (reverse proxy + SSL)          │
 │  🤖 n8n (automatización de workflows)      │
 │   Ollama (LLMs locales)                  │
 │  ☁️ Cloudflare (DNS + CDN)                  │
@@ -144,26 +144,36 @@ Todo mi stack corre en un **VPS propio en Frankfurt** con:
 
 ---
 
-## 📬 Contacto
+##  Contacto
 
 ¿Tienes un proyecto en mente? Hablemos.
 
-<p align="center">
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
   <a href="https://stevemoya.me" target="_blank">
-    <img src="https://img.shields.io/badge/_Portfolio-Visitar-00D4FF?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visitar-00D4FF?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/steve-moya-cepeda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
-<p align="center">
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
   <a href="https://instagram.com/steve_moya_cepeda" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:Stevemc2015@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Escribir-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
