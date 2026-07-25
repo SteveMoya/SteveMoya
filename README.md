@@ -61,13 +61,13 @@ Combino estas tres disciplinas para crear soluciones digitales completas: desde 
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 <table>
 <tr>
 <td width="50%">
 
-### 📊 SEO-GEO-Reports
+###  SEO-GEO-Reports
 Herramienta de análisis SEO y GEO con reportes automatizados.
 <br><br>
 <a href="https://github.com/SteveMoya/SEO-GEO-Reports">
@@ -125,9 +125,9 @@ Sitio personal con blog, proyectos y sistema de contenido.
 
 ---
 
-## 🏗️ Infraestructura
+## ️ Infraestructura
 
-Todo mi stack corre en un **VPS propio** con:
+Todo mi stack corre en un **VPS propio en Frankfurt** con:
 
 ```
 ┌─────────────────────────────────────────────┐
@@ -136,7 +136,7 @@ Todo mi stack corre en un **VPS propio** con:
 │  🐳 Docker + Dokploy (orquestación)        │
 │  🌐 Traefik (reverse proxy + SSL)          │
 │  🤖 n8n (automatización de workflows)      │
-│  🧠 Ollama (LLMs locales)                  │
+│   Ollama (LLMs locales)                  │
 │  ☁️ Cloudflare (DNS + CDN)                  │
 │  🚀 Vercel (frontend deployments)          │
 └─────────────────────────────────────────────┘
@@ -150,11 +150,13 @@ Todo mi stack corre en un **VPS propio** con:
 
 <p align="center">
   <a href="https://stevemoya.me" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visitar-00D4FF?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio">
+    <img src="https://img.shields.io/badge/_Portfolio-Visitar-00D4FF?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/steve-moya-cepeda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</p>
+<p align="center">
   <a href="https://instagram.com/steve_moya_cepeda" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
