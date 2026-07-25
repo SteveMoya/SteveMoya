@@ -127,7 +127,7 @@ Sitio personal con blog, proyectos y sistema de contenido.
 
 ## 🏗️ Infraestructura
 
-Todo mi stack corre en un **VPS propio en Frankfurt** con:
+Todo mi stack corre en un **VPS propio** con:
 
 ```
 ┌─────────────────────────────────────────────┐
