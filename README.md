@@ -24,7 +24,7 @@ Soy **Steve Moya Cepeda**, profesional dominicano con expertise en tres áreas c
 |------|----------------|
 | 📧 **Marketing Digital** | SEO, GEO, campañas, automatización de marketing, analytics |
 | 💻 **Desarrollo Web** | Full Stack (Astro, React, Node.js, TypeScript, PostgreSQL) |
-| 🤖 **Automatización** | Workflows n8n, integraciones API, bots, pipelines de datos |
+| 🤖 **Automatização** | Workflows n8n, integraciones API, bots, pipelines de datos |
 
 Combino estas tres disciplinas para crear soluciones digitales completas: desde la estrategia de marketing hasta el desarrollo técnico y la automatización de procesos.
 
@@ -43,7 +43,7 @@ Combino estas tres disciplinas para crear soluciones digitales completas: desde 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-### 🤖 Automatización & Data
+### 🤖 Automatização & Data
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -80,7 +80,7 @@ Herramienta de análisis SEO y GEO con reportes automatizados.
 ### 🔋 Battery Tool
 Plataforma completa de gestión y configuración de BMS (Battery Management Systems).
 <br><br>
-<a href="https://github.com/SteveMoya/baterry-tool">
+<a href="https://github.com/SteveMoya/battery-tool">
   <img src="https://img.shields.io/badge/Ver_Repositorio-00D4FF?style=flat-square" alt="Repo">
 </a>
 
@@ -135,7 +135,7 @@ Todo mi stack corre en un **VPS propio en Frankfurt** con:
 ├─────────────────────────────────────────────┤
 │  🐳 Docker + Dokploy (orquestación)        │
 │   Traefik (reverse proxy + SSL)          │
-│  🤖 n8n (automatización de workflows)      │
+│  🤖 n8n (automatização de workflows)      │
 │   Ollama (LLMs locales)                  │
 │  ☁️ Cloudflare (DNS + CDN)                  │
 │  🚀 Vercel (frontend deployments)          │
